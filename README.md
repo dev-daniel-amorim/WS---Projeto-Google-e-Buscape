@@ -20,3 +20,9 @@
 ### O que temos disponível?
 
 - Planilha de Produtos, com os nomes dos produtos, o preço máximo, o preço mínimo (para evitar produtos "errados" ou "baratos de mais para ser verdade" e os termos que vamos querer evitar nas nossas buscas.
+
+# Email enviado
+
+- Segue abaixo o modelo do e-mail enviado, com nome do produto, preço e link, e ainda em anexo a tabela:
+![Captura de tela_20230104_181424](https://user-images.githubusercontent.com/115194365/210651431-5382d10c-fbe3-4261-9705-6d8f3f90530a.png)
+
