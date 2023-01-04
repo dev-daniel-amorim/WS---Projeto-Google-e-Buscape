@@ -10,7 +10,7 @@
 
 # Objetivo
 
-- Seu objetivo: Criar uma pesquisa automática que, irá buscar por produtos com valor abaixo de mercado, valor definido por você, então deve-se criar uma planilha com esses produtos, indicando o preço, nome do produto e link para compra.
+- Seu objetivo: Criar uma pesquisa automática que, irá buscar por produtos com valor abaixo de mercado, então deve-se criar uma planilha com esses produtos, indicando o preço, nome do produto e link para compra.
 
 - Em seguida, vai enviar um e-mail com a lista destes produtos para o setor de compra.
 
