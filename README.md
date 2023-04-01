@@ -27,5 +27,5 @@
 ![Captura de tela_20230104_181424](https://user-images.githubusercontent.com/115194365/210651431-5382d10c-fbe3-4261-9705-6d8f3f90530a.png)
 
 # Código fonte do projeto
-(Clique aqui para abrir o código do projeto)[https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape/blob/main/DS-Automacao_web.ipynb]
+[Clique aqui para abrir o código do projeto](https://github.com/dev-daniel-amorim/WS---Projeto-Google-e-Buscape/blob/main/DS-Automacao_web.ipynb)
 
