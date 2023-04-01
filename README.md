@@ -1,4 +1,4 @@
-# Automação Web (selenium)
+# WS - Projeto busca google e buscape
 
 - Projeto de automação web que iráautomatizar pesquisa de preços com base em uma planilha de produtos, para esse projeto iremos utilizar a biblioteca Selenium do python.
 
